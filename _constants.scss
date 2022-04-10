@@ -1,0 +1,8 @@
+
+$primaryBckgrClr:#97d279;
+$primaryPadding: 20px;
+
+@mixin textStyle {
+    color: orange;
+    font-style: italic;
+  }
